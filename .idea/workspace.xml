@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33d74d37-d49b-4092-af68-924f46e4743e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../untitledGradle2.1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradle2.2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleDelivery/artifacts/app-order.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleDocker/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleDocker/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleDocker/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleDocker/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleDocker/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleFinal/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleGradle/src/main/java/CashbackHackService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradlePageObjectNew/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradlePageObjectNew/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradlePageObjectNew/src/test/java/data/DataHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradlePageObjectNew/src/test/java/page/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradlePageObjectNew/src/test/java/page/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradlePageObjectNew/src/test/java/page/TransferMoneyPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradlePageObjectNew/src/test/java/page/VerificationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradlePageObjectNew/src/test/java/test/FirstCardTransferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradlePageObjectNew/src/test/java/test/SecondCardTransferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradlePatternsOne/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradlePatternsOne/artifacts/app-card-delivery.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradlePatternsPeport/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradlePatternsPeport/src/test/java/CardDeliveryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradlePatternsPeport/src/test/java/data/DataGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradlePatternsTwo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradlePatternsTwo/artifacts/app-ibank.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradlePatternsTwo/lombok.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleSQL/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleSQL/artifacts/app-deadline.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleSQL/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleSQL/src/main/DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleSQL/src/test/DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleSQL/src/test/java/data/DataHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleSQL/src/test/java/page/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleSQL/src/test/java/page/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleSQL/src/test/java/page/TransferMoneyPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleSQL/src/test/java/page/VerificationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleSQL/src/test/java/test/FirstCardTransferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleSelenide/artifacts/app-card-delivery.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleSelenium/artifacts/app-order.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleSelenium/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleSelenium/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleSelenium/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleSelenium/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleWeb2.1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledGradleWeb2.1/artifacts/app-order.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledProjectDiplom/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledProjectDiplom/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledProjectDiplom/artifacts/aqa-shop.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledProjectDiplom/gate-simulator/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledProjectDiplom/gate-simulator/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledProjectDiplom/gate-simulator/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledProjectDiplom/gate-simulator/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitledSelenide/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NdZbl5PV98TFin5jRYAa1vH0lR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33d74d37-d49b-4092-af68-924f46e4743e" name="Changes" comment="" />
+      <created>1679995996020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679995996020</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
