@@ -34,6 +34,7 @@ public class Main {
                 // если нашли слово в тексте, пишем название файла
                 if (textSmall.contains(inputSmall)) {
                     System.out.println("Нашли в " + pdfFile.getName());
+
                     System.out.println("Нажмите Enter для продолжения поиска");
                     String answer = scanner.nextLine();
                     if (!answer.isEmpty()) {
